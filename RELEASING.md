@@ -77,7 +77,7 @@ However, for more official announcements, or information that needs more reasona
 
 
 ## Process
-When it comes time to create a release; all pull-requests related to this release have been merged, the chnagelog has been generated and all tests have passed, you are ready to cut a release.
+When it comes time to create a release; all pull-requests related to this release have been merged, the changelog has been generated and all tests have passed, you are ready to cut a release.
 
 This is the only time you will need to operate on an origin branch directly. This is different from the normal pull-request based work-flow in that tags can not be associated with a pull-request. Also this process is described using the master branch, you may wish to use a feature branch for your release work.
 
