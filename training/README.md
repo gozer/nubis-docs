@@ -1,10 +1,8 @@
-﻿**NOTE: I am not currently soliciting feedback. If you stumble upon this material, I ask that you keep your notes and comments to yourself until I remove this note. At that time I will be actively soliciting feedback as well as requesting a number of reviews. As this is course development and not simply documentation, I need time and space to work through my own creative process. Thank you for your understanding.**
-
-# Index
+﻿# Index
 Welcome to the Nubis training documentation. As of this writing this is very much a work in progress. The table of contents is currently designed to help me to design the course content and help me keep track of my progress and what I have left to accomplish. This list will eventually link out to the content covered by each section.
 
 ## Table of Contents
-This Section contains the material we will cover in the classroom session. Eventually we hope to develop this into a self-guided training course that a person can work through at their own pace.
+This section contains the material we will cover in the classroom session. Eventually we hope to develop this into a self-guided training course that a person can work through at their own pace.
 
 0. [Introduction](./introduction.md)
  - [On listening to our customers](./introduction.md#on-listening-to-our-customers)
@@ -125,20 +123,21 @@ This Section contains the material we will cover in the classroom session. Event
       - [nubis-base](./nubis-overview.md#nubis-base)
       - [nubis-builder](./nubis-overview.md#nubis-builder)
       - [Build Deploy Diagram](./nubis-overview.md#build-deploy-diagram)
-0. Exercise Two
- - Using Nubis to solve challenges
-0. Demonstrations
- - Account Upgrade
- - Update an application AMI
- - Application Deployment
- - Troubleshooting
- - The CI work-flow (include roll-back)
-0. Working Labs
- - How do I set up my environment?
- - Working with git & GitHub
- - Deploying the Nubis example application (Dpaste)
- - Deploying your own application using nubis-skel
- - Updating system level packages
+0. [Exercise Two](./exercise-two.md)
+ - [Chose a Topic](./exercise-two.md#chose-a-topic)
+ - [Diagram the deployment](./exercise-two.md#diagram-the-deployment)
+0. [Demonstrations](./demonstrations.md)
+ - [Deploy a new application](./demonstrations.md#deploy-a-new-application)
+ - [Deploy new application code](./demonstrations.md#deploy-new-application-code)
+ - [Continuous Integration work-flow](./demonstrations.md#continuous-integration-work-flow)
+ - [Upgrade an account](./demonstrations.md#upgrade-an-account)
+ - [Troubleshooting](./demonstrations.md#troubleshooting)
+0. [Working Labs](./working-labs.md)
+ - [Setting up your local environment](./working-labs.md#setting-up-your-local-environment)
+ - [Working with git & GitHub](./working-labs.md#working-with-git--github)
+ - [Deploying the Nubis example application Dpaste](./working-labs.md#deploying-the-nubis-example-application-dpaste)
+ - [Deploying your own application using nubis-skel](./working-labs.md#deploying-your-own-application-using-nubis-skel)
+ - [Updating system level packages](./working-labs.md#updating-system-level-packages)
 
 ## Operational Documentation (HOWTOs)
 Here are some links to context relevant HOWTOs which are intended to guide you through many of the tasks you will need to perform using Nubis.
